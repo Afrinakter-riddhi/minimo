@@ -1,0 +1,261 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Inconsolata', monospace;*/
+/*header start*/
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display', serif;
+  color: #626262;
+}
+
+header{
+  padding: 40px 0;
+  /*border: 1px solid red;*/
+
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    /*border: 1px solid red;*/
+    overflow: hidden;
+}
+.logo{
+  width: 12%;
+  float: left;
+  margin-top: 6px;
+}
+.logo img{
+  width: 100%;
+}
+.menu {
+    width: 65%;
+  /*border: 1px solid red;*/
+  float: right;
+}
+
+.menu ul{
+  float: right;
+}  
+
+.menu ul li {
+  list-style: none;
+    float: left;
+    
+}
+.menu ul li a {
+ 
+    font-size:16px;
+    font-weight:400;
+    color: #626262;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 50px;
+    border-bottom: 1px solid transparent;
+    transition: .3s;
+}
+.menu ul li:last-child a{
+  margin-right: 0; 
+}
+
+.menu ul li a:hover {
+  color: #000000;
+  border-bottom: 1px solid black;
+   
+ /* border-bottom: 1px solid #000000;*/
+}
+/*header end*/
+/*banner start*/
+.banner{}
+.b_img{}
+.b_img img{
+  width: 100%;
+}
+/*banner end*/
+/*getaway start*/
+.getaway{
+  padding: 70px 0;
+}
+.container2{
+  width: 80%;
+ /* border: 1px solid red ;*/
+  margin: 0 auto;
+}
+.g_content{}
+.light{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  font-weight:300;
+  color: #b4ad9e;
+  text-transform: uppercase;
+  margin: 0;
+}
+.c_title{
+  font-size: 30px;
+  font-weight :400;
+   margin: 25px 0 32px;
+}
+
+.c_p{
+  line-height: 25px;
+  word-spacing: 1px;
+}
+/*getaway end*/
+
+/*blog start*/
+.blog{
+  padding: 70px 0:;
+}
+.b_content{
+  overflow: hidden;
+}
+.single{
+  width: 45%;
+  /*border: 1px solid black ;*/
+  float: left;
+}
+.single:nth-child(even){
+  margin-left: 9.99%;
+}
+.single img{
+width: 100%;
+margin-bottom: 28px;
+
+}
+.mb_remove{
+  margin-bottom: 0;
+}
+/*blog end*/
+
+/*contact us start*/
+.news {
+    padding: 70px 0;
+    background-color: #f0f0f0;
+}
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+.signup {
+    text-align: center;
+}
+.si_gn {
+    color: #333333;
+    margin: 0 0 70px;
+}
+.u_up {
+    font-size: 30px;
+    font-weight: 400;
+    margin: 25px 0 30px;
+}
+.s_form {
+    position: relative;
+    width: 400px;
+    /* border: 5px solid red; */
+    margin: 0 auto;
+}
+.s_form input {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    color: #626262;
+    width: 345px;
+    height: 45px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    background-color: transparent;
+    padding-left: 5px;
+    padding-right: 45px;
+}
+.s_form button {
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    top: 15px;
+    right: 0;
+}
+/*contact us end*/
+
+/*button start*/
+.load{
+padding: 100px 0;
+text-align: center;
+}
+.load button{
+ width: 165px;
+ height: 70px;
+ background-color: transparent;
+ /*border: 1px solid #626262;*/
+ font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #626262;
+cursor: pointer;
+transition: .2s;
+}
+.load button:hover {
+  background-color: #626262;
+  color:white;
+}
+
+/*button end*/
+
+
+
+/*footer start*/
+footer{
+  width: 100%;
+  height:90px;
+  background-color: #f0f0f0;
+}
+.container3 {
+    width: 75%;
+    margin: 10px auto;
+    /*border: 1px solid red;*/
+    overflow: hidden;
+    padding-top: 17px;
+}
+.terms{
+  float: left;
+  overflow: hidden;
+}
+.terms ul { 
+  float: right;
+}
+.terms ul li{
+  list-style: none;
+  float: left;
+
+}
+.terms ul li a{color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 10px;
+   /* border-bottom: 1px solid transparent;*/
+    transition: .3s;}
+.terms ul li a{}
+.follow{
+  float: right;
+  width:45%;
+  color: #202020;
+}
+.follow ul{
+  float: right;
+}
+.follow ul li{
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 0 10px;
+    font-weight:500;
+}
+}
+.follow ul li a{
+  color: #f0f0f0;
+      display: inline-block;
+    padding: 0 20px;
+   
+}
+
+
+/*footer end*/

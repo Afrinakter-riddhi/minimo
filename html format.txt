@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Health And Fitness</title>
+</head>
+<body>
+	
+
+
+
+
+
+
+
+	
+</body>
+</html>
+
+
+https://hasib-ahmed.github.io/work/
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>ONLINE COSMETIC STORE</title>
+	</head>	
+	<body> 
+		<h1>LIFESTYLE CORNER</h1>
+	<h1>save your time and money</h1>
+	<br>
+	<h3>Online shopping is a process whereby consumers directly buy goods, services etc. from a seller without an intermediary service over the Internet. Shoppers can visit web stores from the comfort of their house and shop as by sitting in front of the computer. Online stores are usually available 24 hours a day and many consumers have internet access both at work and at home. So it is very convenient for them to shop Online
+	<br>
+	<h3>Lifestyle Corner is an online based page where you can shopping all kinds of skin care & daily fashion need at best price by cash on delivery all over bangladesh</h3>
+	<img src="images/visitcard.jpg" width="400" alt='images/visitcard.jpg'
+	<br>
+	<a href="https://www.facebook.com/LifestyleCorner.bd/">FACEBOOK PAGE</a>
+	<br>
+	<h3>for more information and query contact us:01845-019857 </h3>
+	<br>
+	EMAIL:lifestylecorner28@gmail.com
+</body>
+</html>
